@@ -14,7 +14,7 @@
 							    </p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-phone3"></i></span> <a href="tel://0988 550 553">0988 550 553</a>
+								<p><span><i class="icon-phone3"></i></span> <a href="tel://0364561995">0364561995</a>
 								</p>
 							</div>
 							<div class="col-md-3">
@@ -22,7 +22,7 @@
 										href="mailto:info@yoursite.com">info@yoursite.com</a></p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-globe"></i></span> <a href="#">http://nuce.edu.vn</a></p>
+								<p><span><i class="icon-globe"></i></span> <a href="#">http://dogopro.com</a></p>
 							</div>
 						</div>
 					</div>
